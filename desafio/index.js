@@ -2,7 +2,7 @@
 var nomeDoHeroi = "FelipeDIO";
 var experiencia = 10001;
 
-// Estrutura de decisão
+// Estrutura de decisão:
 var nivelDoHeroi;
 
 if (experiencia < 1000) {
