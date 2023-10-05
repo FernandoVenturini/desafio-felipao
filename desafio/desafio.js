@@ -1,4 +1,4 @@
-// Variáveis
+// Variáveis com nome do heroi e XP:
 var nomeDoHeroi = "FelipeDIO";
 var experiencia = 10001;
 
@@ -23,5 +23,5 @@ if (experiencia < 1000) {
     nivelDoHeroi = "Radiante";
 }
 
-// Saída
+// Saída:
 console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivelDoHeroi + ".");
